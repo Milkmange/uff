@@ -1,6 +1,6 @@
 module github.com/sw33tLie/uff/v2
 
-go 1.23.5
+go 1.24.0
 
 toolchain go1.24.1
 
@@ -15,9 +15,9 @@ require (
 require (
 	github.com/andybalholm/cascadia v1.3.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/sw33tLie/http v0.0.0-20250520154406-5fad700f236c // indirect
+	github.com/sw33tLie/http v0.0.0-20251029225617-e8254e59a930 // indirect
 	github.com/sw33tLie/neturl v0.0.0-20240612122703-b61e29214b2b // indirect
-	golang.org/x/net v0.40.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
-	golang.org/x/text v0.25.0 // indirect
+	golang.org/x/net v0.46.0 // indirect
+	golang.org/x/sys v0.37.0 // indirect
+	golang.org/x/text v0.30.0 // indirect
 )
